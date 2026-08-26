@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+
+    <!-- Homepage -->
+    <url>
+        <loc>https://eedhaltech.com/</loc>
+        <lastmod>2025-04-15</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <!-- Core Pages -->
+    <url>
+        <loc>https://eedhaltech.com/about.html</loc>
+        <lastmod>2025-04-15</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://eedhaltech.com/services.html</loc>
+        <lastmod>2025-04-15</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.9</priority>
+    </url>
+
+    <!-- Primary Service Pages (Sitelink Candidates) -->
+    <url>
+        <loc>https://eedhaltech.com/web-development.html</loc>
+        <lastmod>2025-04-15</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.95</priority>
+    </url>
+
+    <url>
+        <loc>https://eedhaltech.com/google-ads.html</loc>
+        <lastmod>2025-04-15</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.95</priority>
+    </url>
+
+    <url>
+        <loc>https://eedhaltech.com/instagram-management.html</loc>
+        <lastmod>2025-04-15</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.95</priority>
+    </url>
+
+    <url>
+        <loc>https://eedhaltech.com/seo-services.html</loc>
+        <lastmod>2025-04-15</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.95</priority>
+    </url>
+
+    <url>
+        <loc>https://eedhaltech.com/contact.html</loc>
+        <lastmod>2025-04-15</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.9</priority>
+    </url>
+
+    <url>
+        <loc>https://eedhaltech.com/portfolio.html</loc>
+        <lastmod>2025-04-15</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://eedhaltech.com/team.html</loc>
+        <lastmod>2025-04-15</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+    <url>
+        <loc>https://eedhaltech.com/testimonials.html</loc>
+        <lastmod>2025-04-15</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+    <url>
+        <loc>https://eedhaltech.com/blog.html</loc>
+        <lastmod>2025-04-15</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.9</priority>
+    </url>
+
+    <!-- Location Pages -->
+    <url>
+        <loc>https://eedhaltech.com/web-development-services-chennai.html</loc>
+        <lastmod>2025-04-15</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.75</priority>
+    </url>
+
+    <url>
+        <loc>https://eedhaltech.com/mobile-app-development-coimbatore.html</loc>
+        <lastmod>2025-04-15</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.75</priority>
+    </url>
+
+    <url>
+        <loc>https://eedhaltech.com/web-development-trichy.html</loc>
+        <lastmod>2025-04-15</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.75</priority>
+    </url>
+
+    <url>
+        <loc>https://eedhaltech.com/digital-marketing-services-madurai.html</loc>
+        <lastmod>2025-04-15</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.75</priority>
+    </url>
+
+    <url>
+        <loc>https://eedhaltech.com/ecommerce-development-salem.html</loc>
+        <lastmod>2025-04-15</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.75</priority>
+    </url>
+
+    <url>
+        <loc>https://eedhaltech.com/software-development-south-india.html</loc>
+        <lastmod>2025-04-15</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.75</priority>
+    </url>
+
+    <!-- Blog Posts -->
+    <url>
+        <loc>https://eedhaltech.com/blog-post.html</loc>
+        <lastmod>2025-03-15</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+        <image:image>
+            <image:loc>https://eedhaltech.com/asset/img/blog/post-7.jpg</image:loc>
+            <image:title>Future of Web Development 2025</image:title>
+        </image:image>
+    </url>
+
+    <url>
+        <loc>https://eedhaltech.com/blog-post-django.html</loc>
+        <lastmod>2025-03-10</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+        <image:image>
+            <image:loc>https://eedhaltech.com/asset/img/blog/post-1.jpg</image:loc>
+            <image:title>Django Best Practices for Scalable Web Applications</image:title>
+        </image:image>
+    </url>
+
+    <url>
+        <loc>https://eedhaltech.com/blog-post-seo.html</loc>
+        <lastmod>2025-03-03</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+        <image:image>
+            <image:loc>https://eedhaltech.com/asset/img/blog/post-4.jpg</image:loc>
+            <image:title>Google Ads Strategies 2025</image:title>
+        </image:image>
+    </url>
+
+    <url>
+        <loc>https://eedhaltech.com/blog-post-react-native.html</loc>
+        <lastmod>2025-03-08</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+        <image:image>
+            <image:loc>https://eedhaltech.com/asset/img/blog/post-2.jpg</image:loc>
+            <image:title>Google Ads vs Meta Ads</image:title>
+        </image:image>
+    </url>
+
+    <url>
+        <loc>https://eedhaltech.com/blog-post-unity.html</loc>
+        <lastmod>2025-03-05</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+        <image:image>
+            <image:loc>https://eedhaltech.com/asset/img/blog/post-3.jpg</image:loc>
+            <image:title>Instagram Reels Strategy 2025</image:title>
+        </image:image>
+    </url>
+
+    <url>
+        <loc>https://eedhaltech.com/blog-post-scraping.html</loc>
+        <lastmod>2025-03-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+        <image:image>
+            <image:loc>https://eedhaltech.com/asset/img/blog/post-5.jpg</image:loc>
+            <image:title>Instagram Growth Tips</image:title>
+        </image:image>
+    </url>
+
+    <url>
+        <loc>https://eedhaltech.com/blog-post-pwa.html</loc>
+        <lastmod>2025-02-28</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+        <image:image>
+            <image:loc>https://eedhaltech.com/asset/img/blog/post-6.jpg</image:loc>
+            <image:title>Building Progressive Web Apps</image:title>
+        </image:image>
+    </url>
+
+    <!-- Legal Pages -->
+    <url>
+        <loc>https://eedhaltech.com/privacy-policy.html</loc>
+        <lastmod>2025-04-15</lastmod>
+        <changefreq>yearly</changefreq>
+        <priority>0.3</priority>
+    </url>
+
+    <url>
+        <loc>https://eedhaltech.com/terms-of-service.html</loc>
+        <lastmod>2025-04-15</lastmod>
+        <changefreq>yearly</changefreq>
+        <priority>0.3</priority>
+    </url>
+
+</urlset>

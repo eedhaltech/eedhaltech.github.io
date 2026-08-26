@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-labelledby="title desc">
+  <title id="title">Eedhal Technology</title>
+  <desc id="desc">Eedhal Technology social share banner for web development and digital marketing services.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0%" stop-color="#081a2f"/>
+      <stop offset="100%" stop-color="#0f172a"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" x2="1" y1="0" y2="0">
+      <stop offset="0%" stop-color="#38bdf8"/>
+      <stop offset="100%" stop-color="#22c55e"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)"/>
+  <circle cx="1020" cy="120" r="190" fill="#0ea5e9" opacity="0.16"/>
+  <circle cx="1050" cy="500" r="220" fill="#22c55e" opacity="0.12"/>
+  <rect x="80" y="80" width="184" height="58" rx="16" fill="#0ea5e9" opacity="0.18"/>
+  <text x="90" y="117" fill="#e2e8f0" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="700">Eedhal</text>
+  <text x="90" y="255" fill="#f8fafc" font-family="Arial, Helvetica, sans-serif" font-size="64" font-weight="700">Web Development</text>
+  <text x="90" y="325" fill="#f8fafc" font-family="Arial, Helvetica, sans-serif" font-size="64" font-weight="700">&amp; Digital Marketing</text>
+  <text x="90" y="385" fill="#cbd5e1" font-family="Arial, Helvetica, sans-serif" font-size="28">Professional growth for businesses across Tamil Nadu</text>
+  <rect x="90" y="440" width="260" height="80" rx="12" fill="url(#accent)"/>
+  <text x="128" y="486" fill="#04131f" font-family="Arial, Helvetica, sans-serif" font-size="30" font-weight="700">Get a Quote</text>
+  <g transform="translate(850 170)">
+    <rect x="0" y="0" width="180" height="180" rx="26" fill="#0f172a" opacity="0.8"/>
+    <path d="M28 136 L76 62 L126 136 Z" fill="#38bdf8" opacity="0.9"/>
+    <path d="M62 74 L118 118 L150 72 Z" fill="#22c55e" opacity="0.9"/>
+    <rect x="46" y="32" width="18" height="58" rx="9" fill="#f8fafc"/>
+    <rect x="78" y="32" width="18" height="58" rx="9" fill="#f8fafc"/>
+    <rect x="110" y="32" width="18" height="58" rx="9" fill="#f8fafc"/>
+  </g>
+</svg>
