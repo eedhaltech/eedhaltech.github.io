@@ -1,0 +1,110 @@
+[
+  {
+    "id": 1,
+    "name": "E-commerce Platform Project",
+    "role": "Full-Stack Development",
+    "company": "Django + React Integration",
+    "service": "Web Development",
+    "project": "E-commerce Platform",
+    "quote": "Developed a comprehensive e-commerce platform with user authentication, payment gateway integration, inventory management, and responsive design. Features include shopping cart, order tracking, and admin dashboard.",
+    "rating": 5,
+    "date": "2025-01-15",
+    "avatar": "asset/img/testimonials/project-1.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Google Ads Campaign",
+    "role": "Google Ads Management",
+    "company": "Search & Display Campaigns",
+    "service": "Google Ads",
+    "project": "Lead Generation Campaign",
+    "quote": "Implemented targeted Google Ads campaigns with keyword optimization, ad copywriting, and conversion tracking. Achieved 250% increase in qualified leads and improved cost-per-click efficiency.",
+    "rating": 5,
+    "date": "2025-01-28",
+    "avatar": "asset/img/testimonials/project-3.jpg"
+  },
+  {
+    "id": 6,
+    "name": "SaaS Dashboard Platform",
+    "role": "Full-Stack Development",
+    "company": "React + Node.js + MongoDB",
+    "service": "Web Development",
+    "project": "SaaS Dashboard",
+    "quote": "Built a comprehensive SaaS dashboard with user management, analytics, subscription handling, and real-time data visualization. Features include role-based access control, API integrations, and responsive design.",
+    "rating": 5,
+    "date": "2025-02-05",
+    "avatar": "asset/img/testimonials/project-6.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Vikram Sundaram",
+    "role": "Digital Marketing Lead",
+    "company": "RetailMax",
+    "service": "Instagram Management",
+    "project": "Instagram Growth Campaign",
+    "quote": "Their Instagram management grew our brand following by 400% in just 3 months. Exceptional content strategy and community engagement.",
+    "rating": 5,
+    "date": "2024-02-12",
+    "avatar": "asset/img/testimonials/vikram-sundaram.jpg"
+  },
+  {
+    "id": 11,
+    "name": "Sneha Raghavan",
+    "role": "E-commerce Manager",
+    "company": "Fashion Forward",
+    "service": "Web Development",
+    "project": "Online Store Redesign",
+    "quote": "Our new website is beautiful and fast. Sales increased by 180% after the redesign. Eedhal Technology truly understands e-commerce.",
+    "rating": 5,
+    "date": "2024-01-30",
+    "avatar": "asset/img/testimonials/sneha-raghavan.jpg"
+  },
+  {
+    "id": 13,
+    "name": "Riya Chandran",
+    "role": "Brand Manager",
+    "company": "Creative Agency",
+    "service": "Google Ads",
+    "project": "Google Ads Campaign",
+    "quote": "Their Google Ads expertise helped us reach new audiences at a fraction of our previous cost. Our qualified leads improved significantly in just 3 months.",
+    "rating": 5,
+    "date": "2024-01-18",
+    "avatar": "asset/img/testimonials/riya-chandran.jpg"
+  },
+  {
+    "id": 16,
+    "name": "Aman Krishnamurthy",
+    "role": "Startup CEO",
+    "company": "TechNova",
+    "service": "Web Development",
+    "project": "MVP Development",
+    "quote": "Eedhal Technology helped us build our MVP quickly and efficiently. Their agile approach and technical skills are impressive.",
+    "rating": 5,
+    "date": "2024-02-06",
+    "avatar": "asset/img/testimonials/aman-krishnamurthy.jpg"
+  },
+  {
+    "id": 18,
+    "name": "Deepak Thyagarajan",
+    "role": "Marketing VP",
+    "company": "Global Brands",
+    "service": "Instagram Management",
+    "project": "Instagram Brand Campaign",
+    "quote": "Their Instagram management delivered outstanding results. Our brand engagement and follower growth exceeded all expectations.",
+    "rating": 5,
+    "date": "2024-02-09",
+    "avatar": "asset/img/testimonials/deepak-thyagarajan.jpg"
+  },
+  {
+    "id": 21,
+    "name": "Gaurav Lakshman",
+    "role": "Business Owner",
+    "company": "Local Services Hub",
+    "service": "Web Development",
+    "project": "Service Booking Platform",
+    "quote": "Our service booking platform is exactly what we envisioned. Customer bookings increased by 200% since launch.",
+    "rating": 5,
+    "date": "2024-01-14",
+    "avatar": "asset/img/testimonials/gaurav-lakshman.jpg"
+  }
+]

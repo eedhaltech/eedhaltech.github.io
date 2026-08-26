@@ -1,0 +1,77 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 700" width="600" height="700">
+  <defs>
+    <linearGradient id="cyanBlue" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#12B7E8"/>
+      <stop offset="100%" stop-color="#1472F4"/>
+    </linearGradient>
+    <linearGradient id="deepBlue" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0B6DB8"/>
+      <stop offset="100%" stop-color="#123D91"/>
+    </linearGradient>
+    <linearGradient id="navy" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#123D78"/>
+      <stop offset="100%" stop-color="#071F4E"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Upper digital ribbon -->
+  <path fill="url(#cyanBlue)" d="M184 210
+    C240 132 312 105 407 108
+    L520 108
+    C504 164 469 198 413 209
+    C366 218 322 207 282 221
+    C250 232 224 252 205 278
+    L145 296
+    C151 262 165 232 184 210Z"/>
+
+  <!-- Middle ribbon / stylized E -->
+  <path fill="url(#deepBlue)" d="M132 290
+    C174 270 217 251 274 253
+    L466 253
+    C451 306 416 336 362 344
+    C318 350 278 342 244 356
+    C211 370 190 393 170 421
+    L112 449
+    C105 395 111 334 132 290Z"/>
+
+  <!-- Lower sweeping E / globe form -->
+  <path fill="url(#navy)" d="M113 449
+    C143 421 182 405 228 406
+    L391 406
+    C371 455 337 493 294 514
+    C258 532 221 534 187 548
+    C158 560 139 583 132 609
+    C104 582 91 548 93 514
+    C95 489 101 467 113 449Z"/>
+
+  <!-- Digital pixel trail -->
+  <g fill="#1378D5">
+    <rect x="92" y="152" width="22" height="22" rx="2" transform="rotate(9 103 163)"/>
+    <rect x="128" y="185" width="16" height="16" rx="2" transform="rotate(9 136 193)"/>
+    <rect x="155" y="147" width="25" height="25" rx="2" transform="rotate(9 167 159)"/>
+    <rect x="188" y="112" width="11" height="11" rx="2"/>
+    <rect x="72" y="238" width="28" height="28" rx="2" transform="rotate(9 86 252)"/>
+    <rect x="112" y="274" width="13" height="13" rx="2"/>
+    <rect x="202" y="270" width="10" height="10" rx="2" fill="#12B7E8"/>
+  </g>
+
+  <!-- Globe/network arc -->
+  <path d="M137 595 C218 641 335 638 441 558 C470 536 489 510 500 480"
+        fill="none" stroke="url(#deepBlue)" stroke-width="8" stroke-linecap="round"/>
+  <path d="M151 585 C225 608 324 603 404 553 C445 527 473 499 490 468"
+        fill="none" stroke="#0D63B7" stroke-width="3" stroke-linecap="round"/>
+  <path d="M224 610 C246 579 256 546 251 512"
+        fill="none" stroke="#0D63B7" stroke-width="3"/>
+  <path d="M330 590 C351 557 364 522 363 489"
+        fill="none" stroke="#0D63B7" stroke-width="3"/>
+  <path d="M405 553 C409 526 406 500 398 474"
+        fill="none" stroke="#0D63B7" stroke-width="3"/>
+
+  <!-- Network nodes -->
+  <g fill="#0B63B7">
+    <circle cx="224" cy="610" r="11"/>
+    <circle cx="330" cy="590" r="11"/>
+    <circle cx="405" cy="553" r="11"/>
+    <circle cx="398" cy="474" r="11"/>
+  </g>
+</svg>

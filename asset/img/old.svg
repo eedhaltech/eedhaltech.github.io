@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="200" height="200">
+  <defs>
+    <linearGradient id="eGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#38bdf8;stop-opacity:1" />
+      <stop offset="50%" style="stop-color:#0ea5e9;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#1e40af;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="globeGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0ea5e9;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#1e3a8a;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+
+  <!-- Pixel squares top-left (digital effect) -->
+  <rect x="28" y="18" width="14" height="14" rx="2" fill="#38bdf8" opacity="0.9"/>
+  <rect x="46" y="10" width="10" height="10" rx="2" fill="#38bdf8" opacity="0.7"/>
+  <rect x="18" y="34" width="8"  height="8"  rx="1" fill="#38bdf8" opacity="0.5"/>
+  <rect x="58" y="16" width="7"  height="7"  rx="1" fill="#38bdf8" opacity="0.4"/>
+  <rect x="36" y="6"  width="6"  height="6"  rx="1" fill="#38bdf8" opacity="0.3"/>
+
+  <!-- Upper swoosh of the E letter -->
+  <path d="M55,35 C70,20 130,22 150,38 C145,30 120,15 80,18 C65,19 55,28 52,38 Z"
+        fill="url(#eGrad)" opacity="0.95"/>
+
+  <!-- Main body of the E — upper arm -->
+  <path d="M48,40 C55,25 145,28 155,45 C145,35 70,30 55,45 Z"
+        fill="url(#eGrad)"/>
+
+  <!-- E spine (vertical part) -->
+  <path d="M48,40 Q38,80 42,120 Q45,145 55,158 Q45,140 40,110 Q36,85 48,40 Z"
+        fill="url(#eGrad)"/>
+
+  <!-- Globe/network sphere (lower right of E) -->
+  <ellipse cx="120" cy="148" rx="52" ry="40" fill="none" stroke="url(#globeGrad)" stroke-width="3" opacity="0.85"/>
+  <!-- Globe longitude lines -->
+  <ellipse cx="120" cy="148" rx="28" ry="40" fill="none" stroke="#1e40af" stroke-width="1.5" opacity="0.6"/>
+  <ellipse cx="120" cy="148" rx="8"  ry="40" fill="none" stroke="#1e40af" stroke-width="1"   opacity="0.4"/>
+  <!-- Globe latitude lines -->
+  <path d="M68,135 Q120,128 172,135" fill="none" stroke="#1e40af" stroke-width="1.5" opacity="0.6"/>
+  <path d="M72,155 Q120,148 168,155" fill="none" stroke="#1e40af" stroke-width="1.5" opacity="0.6"/>
+  <!-- Network dots on globe -->
+  <circle cx="95"  cy="133" r="3" fill="#38bdf8"/>
+  <circle cx="130" cy="128" r="3" fill="#0ea5e9"/>
+  <circle cx="155" cy="145" r="3" fill="#38bdf8"/>
+  <circle cx="145" cy="162" r="2.5" fill="#0ea5e9"/>
+  <circle cx="100" cy="163" r="2.5" fill="#38bdf8"/>
+  <!-- Network connecting lines -->
+  <line x1="95" y1="133" x2="130" y2="128" stroke="#38bdf8" stroke-width="1" opacity="0.5"/>
+  <line x1="130" y1="128" x2="155" y2="145" stroke="#38bdf8" stroke-width="1" opacity="0.5"/>
+  <line x1="155" y1="145" x2="145" y2="162" stroke="#38bdf8" stroke-width="1" opacity="0.5"/>
+  <line x1="145" y1="162" x2="100" y2="163" stroke="#38bdf8" stroke-width="1" opacity="0.5"/>
+  <line x1="100" y1="163" x2="95"  y2="133" stroke="#38bdf8" stroke-width="1" opacity="0.5"/>
+
+  <!-- Middle arm of E sweeping into globe -->
+  <path d="M42,90 Q55,82 90,80 Q120,78 145,92 Q120,84 85,86 Q60,88 48,96 Z"
+        fill="url(#eGrad)" opacity="0.9"/>
+
+  <!-- Lower swoosh -->
+  <path d="M55,150 C68,162 110,168 140,158 Q120,168 80,165 Q62,162 52,150 Z"
+        fill="url(#eGrad)" opacity="0.85"/>
+</svg>
